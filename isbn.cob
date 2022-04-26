@@ -1,8 +1,3 @@
-*> Author: Valeria Telles
-*> Date: 25 March 2022
-*> Course: CIS3190 - Software for Legacy Systems
-*> Program: ISBN validation in COBOL
-
 identification division.
 program-id. isbn. 
 
