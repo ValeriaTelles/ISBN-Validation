@@ -8,11 +8,11 @@ An ISBN is a 10 digit numbers that is used to identify a book. The first 9 digit
 4. Program will read the file and output the validity of each ISBN number which can be either incorrect, correct and valid, or correct, but not valid (invalid check digit).
 
 ### **Example:**
-Input: 
+Input: \
 ```1856266532``` \
 ```1B56266532``` \
-```1856266537``` \
-Output: 
+```1856266537``` 
+Output: \
 ```correct and valid``` \
 ```incorrect, contains a non-digit``` \
-```correct, but not valid (invalid check digit)``` \
+```correct, but not valid (invalid check digit)``` 
